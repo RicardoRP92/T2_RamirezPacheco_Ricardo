@@ -1,0 +1,4 @@
+Anotación de la evaluación T2 - Lenguaje de Programación II.
+Este archivo se creó para demostrar el control del staging con Git,
+manteniéndolo inicialmente fuera del área de preparación.
+Estudiante: Ricardo Antonio Ramirez Pacheco.
